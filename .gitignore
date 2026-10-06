@@ -1,0 +1,9 @@
+# Runtime artifacts
+logs/
+__pycache__/
+*.pyc
+active_target.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
